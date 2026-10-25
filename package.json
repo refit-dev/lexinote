@@ -68,7 +68,7 @@
     "react-textarea-autosize": "^8.5.3",
     "sharp": "^0.33.2",
     "simplebar-react": "^3.2.4",
-    "stripe": "^14.25.0",
+    "stripe": "^23.0.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "three": "^0.177.0",
